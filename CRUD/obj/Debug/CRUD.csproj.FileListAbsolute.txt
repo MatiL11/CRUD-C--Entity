@@ -1,0 +1,15 @@
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\bin\Debug\EntityFramework.dll
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\bin\Debug\EntityFramework.xml
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.csproj.CopyComplete
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\matia\Desktop\Proyectos\Facultad\CRUD\CRUD\obj\Debug\CRUD.pdb
